@@ -1,7 +1,7 @@
 package com.testing;
 
 /**
- * Hello world!
+ * Sample commit!
  *
  */
 public class App 
